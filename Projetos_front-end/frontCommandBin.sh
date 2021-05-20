@@ -1,7 +1,7 @@
 # ! /bin/sh
 
-git clone --single-branch -b  https://github.com/tryber/sd-08-project-facebook-signup;
-git submodule add https://github.com/tryber/sd-08-project-facebook-signup sd-08-project-facebook-signup
+# git clone --single-branch -b  https://github.com/tryber/sd-08-project-facebook-signup;
+# git submodule add https://github.com/tryber/sd-08-project-facebook-signup sd-08-project-facebook-signup
 
 git clone --single-branch -b JRGCast-project-movie-cards-library https://github.com/tryber/sd-08-project-movie-cards-library;
 git submodule add https://github.com/tryber/sd-08-project-movie-cards-library sd-08-project-movie-cards-library
