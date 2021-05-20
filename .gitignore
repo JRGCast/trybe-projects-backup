@@ -1,5 +1,6 @@
-fundCommandBin/  
-frontCommandBin/
+*.txt/
+fundCommandBin.sh/  
+frontCommandBin.sh/
 commands.js/
 list-all-projects.js/
-
+fleshwound.txt/
