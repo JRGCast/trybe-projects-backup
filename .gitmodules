@@ -1,6 +1,45 @@
-[submodule "sd-08-project-zoo-function"]
-	path = sd-08-project-zoo-function
-	url = https://github.com/tryber/sd-08-project-zoo-function
-[submodule "sd-08-project-playground-function"]
-	path = sd-08-project-playground-function
+[submodule "Projetos_fundamentos/sd-08-project-jest"]
+	path = Projetos_fundamentos/sd-08-project-jest
+	url = https://github.com/tryber/sd-08-project-jest
+[submodule "Projetos_fundamentos/sd-08-project-js-unit-tests"]
+	path = Projetos_fundamentos/sd-08-project-js-unit-tests
+	url = https://github.com/tryber/sd-08-project-js-unit-tests
+[submodule "Projetos_fundamentos/sd-08-project-lessons-learned"]
+	path = Projetos_fundamentos/sd-08-project-lessons-learned
+	url = https://github.com/tryber/sd-08-project-lessons-learned
+[submodule "Projetos_fundamentos/sd-08-project-pixels-art"]
+	path = Projetos_fundamentos/sd-08-project-pixels-art
+	url = https://github.com/tryber/sd-08-project-pixels-art
+[submodule "Projetos_fundamentos/sd-08-project-playground-function"]
+	path = Projetos_fundamentos/sd-08-project-playground-function
 	url = https://github.com/tryber/sd-08-project-playground-function
+[submodule "Projetos_fundamentos/sd-08-project-todo-list"]
+	path = Projetos_fundamentos/sd-08-project-todo-list
+	url = https://github.com/tryber/sd-08-project-todo-list
+[submodule "Projetos_fundamentos/sd-08-project-zoo-function"]
+	path = Projetos_fundamentos/sd-08-project-zoo-function
+	url = https://github.com/tryber/sd-08-project-zoo-function
+[submodule "Projetos_front-end/sd-08-project-facebook-signup"]
+	path = Projetos_front-end/sd-08-project-facebook-signup
+	url = https://github.com/tryber/sd-08-project-facebook-signup
+[submodule "Projetos_front-end/sd-08-project-movie-cards-library"]
+	path = Projetos_front-end/sd-08-project-movie-cards-library
+	url = https://github.com/tryber/sd-08-project-movie-cards-library
+[submodule "Projetos_front-end/sd-08-project-movie-cards-library-crud"]
+	path = Projetos_front-end/sd-08-project-movie-cards-library-crud
+	url = https://github.com/tryber/sd-08-project-movie-cards-library-crud
+[submodule "Projetos_front-end/sd-08-project-movie-cards-library-stateful"]
+	path = Projetos_front-end/sd-08-project-movie-cards-library-stateful
+	url = https://github.com/tryber/sd-08-project-movie-cards-library-stateful
+[submodule "Projetos_front-end/sd-08-project-react-testing-library"]
+	path = Projetos_front-end/sd-08-project-react-testing-library
+	url = https://github.com/tryber/sd-08-project-react-testing-library
+[submodule "Projetos_front-end/sd-08-project-shopping-cart"]
+	path = Projetos_front-end/sd-08-project-shopping-cart
+	url = https://github.com/tryber/sd-08-project-shopping-cart
+[submodule "Projetos_front-end/sd-08-project-starwars-planets-search"]
+	path = Projetos_front-end/sd-08-project-starwars-planets-search
+	url = https://github.com/tryber/sd-08-project-starwars-planets-search
+[submodule "Projetos_front-end/sd-08-project-trybewallet"]
+	path = Projetos_front-end/sd-08-project-trybewallet
+	url = https://github.com/tryber/sd-08-project-trybewallet
