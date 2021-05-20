@@ -37,3 +37,9 @@
 [submodule "Projetos_front-end/sd-08-project-shopping-cart"]
 	path = Projetos_front-end/sd-08-project-shopping-cart
 	url = https://github.com/tryber/sd-08-project-shopping-cart
+[submodule "Projetos_front-end/sd-08-project-starwars-planets-search"]
+	path = Projetos_front-end/sd-08-project-starwars-planets-search
+	url = https://github.com/tryber/sd-08-project-starwars-planets-search
+[submodule "Projetos_front-end/sd-08-project-trybewallet"]
+	path = Projetos_front-end/sd-08-project-trybewallet
+	url = https://github.com/tryber/sd-08-project-trybewallet
