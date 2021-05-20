@@ -6,6 +6,19 @@ const fundamentsProjects = ['sd-08-project-jest', 'sd-08-project-js-unit-tests',
 
 const otherProjects = ['sd-08-project-color-guess', 'sd-08-project-mistery-letter', 'sd-08-project-meme-generate']
 
+const containsProject = [];
+
+const pushCP = (array) => {
+  array.forEach((currVal) => {
+   containsProject.push(currVal.includes('project') ? {project: currVal, branchName: ''} : false)
+  })
+}
+
+pushCP(otherProjects);
+pushCP(frontEndProjects);
+pushCP(fundamentsProjects);
+
+console.log(containsProject)
 
 // sd-08-calculator Internal
 
