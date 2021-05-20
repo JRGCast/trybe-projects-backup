@@ -1,0 +1,21 @@
+[submodule "Projetos_fundamentos/sd-08-project-jest"]
+	path = Projetos_fundamentos/sd-08-project-jest
+	url = https://github.com/tryber/sd-08-project-jest
+[submodule "Projetos_fundamentos/sd-08-project-js-unit-tests"]
+	path = Projetos_fundamentos/sd-08-project-js-unit-tests
+	url = https://github.com/tryber/sd-08-project-js-unit-tests
+[submodule "Projetos_fundamentos/sd-08-project-lessons-learned"]
+	path = Projetos_fundamentos/sd-08-project-lessons-learned
+	url = https://github.com/tryber/sd-08-project-lessons-learned
+[submodule "Projetos_fundamentos/sd-08-project-pixels-art"]
+	path = Projetos_fundamentos/sd-08-project-pixels-art
+	url = https://github.com/tryber/sd-08-project-pixels-art
+[submodule "Projetos_fundamentos/sd-08-project-playground-function"]
+	path = Projetos_fundamentos/sd-08-project-playground-function
+	url = https://github.com/tryber/sd-08-project-playground-function
+[submodule "Projetos_fundamentos/sd-08-project-todo-list"]
+	path = Projetos_fundamentos/sd-08-project-todo-list
+	url = https://github.com/tryber/sd-08-project-todo-list
+[submodule "Projetos_fundamentos/sd-08-project-zoo-function"]
+	path = Projetos_fundamentos/sd-08-project-zoo-function
+	url = https://github.com/tryber/sd-08-project-zoo-function
