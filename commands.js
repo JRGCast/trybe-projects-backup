@@ -46,10 +46,12 @@ const allProjects = [
 
 const filterFunc = (array, filterArr) => array.filter(element => filterArr.some(projectName => element.project.includes(projectName)))
 
-const projectFundamentos = filterFunc(allProjects, fundamentsProjects)
-
-console.log(projectFundamentos)
+const projectsFundamentos = filterFunc(allProjects, fundamentsProjects);
+const frontProjects = filterFunc(allProjects, frontEndProjects);
+const backProjects = filterFunc(allProjects, backEndProjects);
 
 const printCommand = (myBranch, repoUrl) => console.log(`git clone --single-branch -b ${myBranch} https://github.com/tryber/${repoUrl}; git submodule add https://github.com/tryber/${repoUrl} ${repoUrl}`);
 
-const settingSail = projectFundamentos.forEach(({project, branchName}) => printCommand( branchName, project))
+const settingSail = (projectsArr) => projectsArr.forEach(({project, branchName}) => printCommand( branchName, project))
+
+settingSail(frontProjects);
