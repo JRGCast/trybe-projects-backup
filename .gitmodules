@@ -43,3 +43,6 @@
 [submodule "Projetos_front-end/sd-08-project-trybewallet"]
 	path = Projetos_front-end/sd-08-project-trybewallet
 	url = https://github.com/tryber/sd-08-project-trybewallet
+[submodule "Projetos_back-end/sd-08-project-talker-manager"]
+	path = Projetos_back-end/sd-08-project-talker-manager
+	url = https://github.com/tryber/sd-08-project-talker-manager
