@@ -46,3 +46,6 @@
 [submodule "Projetos_back-end/sd-08-project-talker-manager"]
 	path = Projetos_back-end/sd-08-project-talker-manager
 	url = https://github.com/tryber/sd-08-project-talker-manager
+[submodule "Projetos_back-end/sd-08-store-manager"]
+	path = Projetos_back-end/sd-08-store-manager
+	url = https://github.com/tryber/sd-08-store-manager
