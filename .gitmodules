@@ -49,3 +49,6 @@
 [submodule "Projetos_back-end/sd-08-store-manager"]
 	path = Projetos_back-end/sd-08-store-manager
 	url = https://github.com/tryber/sd-08-store-manager
+[submodule "Projetos_back-end/sd-08-cookmaster"]
+	path = Projetos_back-end/sd-08-cookmaster
+	url = https://github.com/tryber/sd-08-cookmaster
