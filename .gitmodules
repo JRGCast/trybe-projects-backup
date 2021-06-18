@@ -52,3 +52,6 @@
 [submodule "Projetos_back-end/sd-08-cookmaster"]
 	path = Projetos_back-end/sd-08-cookmaster
 	url = https://github.com/tryber/sd-08-cookmaster
+[submodule "Projetos_back-end/sd-08-stranger-things-backend"]
+	path = Projetos_back-end/sd-08-stranger-things-backend
+	url = https://github.com/tryber/sd-08-stranger-things-backend
