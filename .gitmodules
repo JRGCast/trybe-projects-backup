@@ -55,3 +55,6 @@
 [submodule "Projetos_back-end/sd-08-stranger-things-backend"]
 	path = Projetos_back-end/sd-08-stranger-things-backend
 	url = https://github.com/tryber/sd-08-stranger-things-backend
+[submodule "Projetos_back-end/sd-08-stranger-things-frontend"]
+	path = Projetos_back-end/sd-08-stranger-things-frontend
+	url = https://github.com/tryber/sd-08-stranger-things-frontend
