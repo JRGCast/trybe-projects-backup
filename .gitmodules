@@ -61,3 +61,6 @@
 [submodule "Projetos_back-end/sd-08-project-blogs-api"]
 	path = Projetos_back-end/sd-08-project-blogs-api
 	url = https://github.com/tryber/sd-08-project-blogs-api
+[submodule "Projetos_back-end/sd-08-project-webchat"]
+	path = Projetos_back-end/sd-08-project-webchat
+	url = https://github.com/tryber/sd-08-project-webchat
