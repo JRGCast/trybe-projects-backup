@@ -67,3 +67,6 @@
 [submodule "Projetos_back-end/sd-08-project-delivery-app"]
 	path = Projetos_back-end/sd-08-project-delivery-app
 	url = https://github.com/tryber/sd-08-project-delivery-app/pull/8
+[submodule "Projetos_front-end/sd-08-project-recipes-app"]
+	path = Projetos_front-end/sd-08-project-recipes-app
+	url = https://github.com/tryber/sd-08-project-recipes-app
