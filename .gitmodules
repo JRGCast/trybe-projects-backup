@@ -70,3 +70,6 @@
 [submodule "Projetos_front-end/sd-08-project-recipes-app"]
 	path = Projetos_front-end/sd-08-project-recipes-app
 	url = https://github.com/tryber/sd-08-project-recipes-app
+[submodule "Projetos_computer_science/sd-08-project-job-insights"]
+	path = Projetos_computer_science/sd-08-project-job-insights
+	url = https://github.com/tryber/sd-08-project-job-insights.git
