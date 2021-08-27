@@ -43,3 +43,33 @@
 [submodule "Projetos_front-end/sd-08-project-trybewallet"]
 	path = Projetos_front-end/sd-08-project-trybewallet
 	url = https://github.com/tryber/sd-08-project-trybewallet
+[submodule "Projetos_back-end/sd-08-project-talker-manager"]
+	path = Projetos_back-end/sd-08-project-talker-manager
+	url = https://github.com/tryber/sd-08-project-talker-manager
+[submodule "Projetos_back-end/sd-08-store-manager"]
+	path = Projetos_back-end/sd-08-store-manager
+	url = https://github.com/tryber/sd-08-store-manager
+[submodule "Projetos_back-end/sd-08-cookmaster"]
+	path = Projetos_back-end/sd-08-cookmaster
+	url = https://github.com/tryber/sd-08-cookmaster
+[submodule "Projetos_back-end/sd-08-stranger-things-backend"]
+	path = Projetos_back-end/sd-08-stranger-things-backend
+	url = https://github.com/tryber/sd-08-stranger-things-backend
+[submodule "Projetos_back-end/sd-08-stranger-things-frontend"]
+	path = Projetos_back-end/sd-08-stranger-things-frontend
+	url = https://github.com/tryber/sd-08-stranger-things-frontend
+[submodule "Projetos_back-end/sd-08-project-blogs-api"]
+	path = Projetos_back-end/sd-08-project-blogs-api
+	url = https://github.com/tryber/sd-08-project-blogs-api
+[submodule "Projetos_back-end/sd-08-project-webchat"]
+	path = Projetos_back-end/sd-08-project-webchat
+	url = https://github.com/tryber/sd-08-project-webchat
+[submodule "Projetos_back-end/sd-08-project-delivery-app"]
+	path = Projetos_back-end/sd-08-project-delivery-app
+	url = https://github.com/tryber/sd-08-project-delivery-app/pull/8
+[submodule "Projetos_front-end/sd-08-project-recipes-app"]
+	path = Projetos_front-end/sd-08-project-recipes-app
+	url = https://github.com/tryber/sd-08-project-recipes-app
+[submodule "Projetos_computer_science/sd-08-project-job-insights"]
+	path = Projetos_computer_science/sd-08-project-job-insights
+	url = https://github.com/tryber/sd-08-project-job-insights.git

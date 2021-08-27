@@ -1,6 +1,6 @@
-./Projetos_front-end/frontCommandBin.sh;
-./Projetos_fundamentos/fundCommandBin.sh;
-fundCommandBin;  
-frontCommandBin;
-commands.js;
-list-all-projects.js;
+*.txt/
+fundCommandBin.sh/  
+frontCommandBin.sh/
+commands.js/
+list-all-projects.js/
+fleshwound.txt/
