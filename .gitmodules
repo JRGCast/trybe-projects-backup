@@ -73,3 +73,9 @@
 [submodule "Projetos_back/sd-09-project-delivery-app"]
 	path= Projetos_back/sd-09-project-delivery-app
 	url= https://github.com/tryber/sd-09-project-delivery-app
+[submodule "Projetos_computer_science/sd-09-project-job-insights"]
+	path = Projetos_computer_science/sd-09-project-job-insights
+	url = https://github.com/tryber/sd-09-project-job-insights
+[submodule "Projetos_computer_science/sd-09-inventory-report"]
+	path = Projetos_computer_science/sd-09-inventory-report
+	url = https://github.com/tryber/sd-09-inventory-report
