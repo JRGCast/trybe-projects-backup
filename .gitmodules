@@ -76,3 +76,6 @@
 [submodule "Projetos_computer_science/sd-09-project-job-insights"]
 	path = Projetos_computer_science/sd-09-project-job-insights
 	url = https://github.com/tryber/sd-09-project-job-insights
+[submodule "Projetos_computer_science/Projetos_computer_science/sd-09-tech-news"]
+	path = Projetos_computer_science/Projetos_computer_science/sd-09-tech-news
+	url = https://github.com/tryber/sd-09-tech-news
