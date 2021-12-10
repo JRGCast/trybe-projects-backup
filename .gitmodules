@@ -82,3 +82,6 @@
 [submodule "Projetos_computer_science/sd-09-project-algorithms"]
 	path = Projetos_computer_science/sd-09-project-algorithms
 	url = https://github.com/tryber/sd-09-project-algorithms
+[submodule "Projetos_computer_science/sd-010-a-inventory-report"]
+	path = Projetos_computer_science/sd-010-a-inventory-report
+	url = https://github.com/tryber/sd-010-a-inventory-report
